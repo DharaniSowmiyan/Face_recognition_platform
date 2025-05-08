@@ -64,6 +64,11 @@ Uses modern libraries like HuggingFace for embeddings, FAISS for vector search, 
 # Live webcam previewed for scanning:
 ![Screenshot 2025-05-08 085817](https://github.com/user-attachments/assets/8dffb681-a64a-465c-9eec-4fc15e54b13b)
 
+# Handle multiple face recognition simultaneously in one frame:
+![Screenshot 2025-05-06 210905](https://github.com/user-attachments/assets/61701727-f1ed-4e5b-a7da-ecea05ef4b6d)
+![Screenshot 2025-05-06 210933](https://github.com/user-attachments/assets/661a06c0-43c1-4753-9c91-abfd22485827)
+
+
 # Now we can see that,the recent scanned person's profile has added to the log:
 ![Screenshot 2025-05-08 090100](https://github.com/user-attachments/assets/06bdc8b7-bef0-4741-a9d0-44cdea3d18ab)
 
