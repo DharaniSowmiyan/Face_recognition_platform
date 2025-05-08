@@ -109,7 +109,18 @@ Chatbot: Ask questions about registration and attendance using natural language.
 
 Contact & Help: Easy access to support and password change.
 
+# File Structure
+backend/flask_main.py — python code for registration, training, and attendance.
 
+backend/chatbot.py — Chatbot backend for answering queries about students and attendance.
+
+backend/FaceRecog.db — SQLite database for storing student and attendance data (auto-created).
+
+backend/TrainingImage/ — Stores captured face images.
+
+backend/TrainingImageLabel/ — Stores trained model and password file.
+
+backend/haarcascade_frontalface_default.xml — Haar Cascade file for face detection (required).
 
 # Tools and Technologies Used
 (Backend)
