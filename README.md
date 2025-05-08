@@ -9,7 +9,7 @@ Advanced facial recognition with real-time processing and AI-powered features
 
 # say we are registering a person,we have to provide their ID and Name..Then we select Take images![Screenshot 2025-05-08 084819](https://github.com/user-attachments/assets/d3601b46-bed4-4f11-827a-11b81909bf03)
 
-# For security purpose,the registering person should a password![Screenshot 2025-05-08 084904](https://github.com/user-attachments/assets/e5f633ce-86e4-4cd2-9e18-1d04243be34d)
+# For security purpose,the registering person should enter a password![Screenshot 2025-05-08 084904](https://github.com/user-attachments/assets/e5f633ce-86e4-4cd2-9e18-1d04243be34d)
 
 # We can see that the newly registered person's name added to the list![Screenshot 2025-05-08 085129](https://github.com/user-attachments/assets/3fb8fc7e-9b6f-4d43-98e1-4768b55e21b0)
 
