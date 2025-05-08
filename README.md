@@ -92,6 +92,8 @@ Uses modern libraries like HuggingFace for embeddings, FAISS for vector search, 
 # For furthur contact
 ![Screenshot 2025-05-08 091043](https://github.com/user-attachments/assets/0de39ed3-4991-426f-8784-3a3a531cfc4f)
 
+
+
 # Features
 Registration: Register new person with ID and name, and capture their face images. 
 
@@ -106,6 +108,8 @@ Password Protection: Secure training with a password.
 Chatbot: Ask questions about registration and attendance using natural language.
 
 Contact & Help: Easy access to support and password change.
+
+
 
 # Tools and Technologies Used
 (Backend)
@@ -141,5 +145,8 @@ Sentence-Transformers – Used in vector similarity search.
 
 (Frontend)
 React.js – Interactive user interface for registration, scanning, and chat.
-====================================================================================================================================================================================================================
+
+
+
+
 "This project is a part of a hackathon run by https://katomaran.com"
