@@ -1,13 +1,15 @@
-pip install langchain openai faiss-cpu python-dotenv
-pip install tk-tools
-pip install opencv-contrib-python
-pip install datetime
-pip install pytest-shutil
-pip install python-csv
-pip install numpy
-pip install pillow 
-pip install pandas
-pip install times
-pip install -U langchain-community
-pip install tiktoken
-pip install google-generativeai
+langchain==0.3.25
+openai==1.77.0
+faiss-cpu==1.11.0
+python-dotenv==1.1.0
+tk-tools==0.17.0
+opencv-contrib-python==4.11.0.86
+pytest-shutil==1.8.1
+python-csv==0.0.13
+numpy==2.2.5
+pillow==11.2.1
+pandas==2.2.3
+times==0.0.4
+langchain-community==0.3.23
+tiktoken==0.9.0
+google-generativeai==0.8.5
