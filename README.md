@@ -11,7 +11,7 @@ It includes a chatbot that uses OpenAI and LangChain to answer natural language 
 
 2.Automatic Database Management:
 
-The system automatically creates and manages an SQLite database for both registration and scanning, making it easy to deploy and use without manual setup.
+The system automatically creates and manages an SQLite database for both registration and scanning, making it easy to deploy and use without manual setup.(2 tables-one for registration and another one for attendance logging)
 
 3.Password Protection for Training:
 
