@@ -4,7 +4,7 @@ This project is a Face Recognition System with a modern React frontend and Pytho
 # Architecture diagram
 ![2025-05-08 (3)](https://github.com/user-attachments/assets/d47a0428-2582-4706-929c-9e069285f75e)
 
-OUTPUT SCREENSHOTS
+(Output Screenshots)
 # Main page
 ![Screenshot 2025-05-08 084135](https://github.com/user-attachments/assets/2ab4477c-063b-48d5-b71d-69255c5a615f)
 
