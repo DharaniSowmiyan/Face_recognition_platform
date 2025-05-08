@@ -162,7 +162,9 @@ Sentence-Transformers – Used in vector similarity search.
 (Frontend)
 React.js – Interactive user interface for registration, scanning, and chat.
 
+# demo video link
 
+https://www.loom.com/share/ef2ca3a210884fc990e48fd1b8b1a92a?sid=746cef40-b19f-40e7-a581-e73907c32c6c
 
 
 "This project is a part of a hackathon run by https://katomaran.com"
