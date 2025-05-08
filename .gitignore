@@ -1,0 +1,35 @@
+venv/
+backend/TrainingImage
+venv/
+*.dll
+*.lib
+*.pyd
+*.yml
+__pycache__/
+*.pt
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+
+# Face recognition training files
+*.yml
+
+# Virtual environment
+venv/
+.env/
+
+# React build files
+front/frontend/node_modules/
+front/frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FAISS
+*.faiss
+*.pkl
