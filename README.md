@@ -5,31 +5,31 @@ This project is a Face Recognition System with a modern React frontend and Pytho
 ![2025-05-08 (3)](https://github.com/user-attachments/assets/d47a0428-2582-4706-929c-9e069285f75e)
 
 # What’s Special in my Face Recognition System?
-Integrated Chatbot with AI (OpenAI + LangChain):
+1.Integrated Chatbot with AI (OpenAI + LangChain):
 
 It includes a chatbot that uses OpenAI and LangChain to answer natural language questions about student registration and attendance. This is a modern, AI-powered feature not found in most basic attendance systems.
 
-Automatic Database Management:
+2.Automatic Database Management:
 
 The system automatically creates and manages an SQLite database for both registration and scanning, making it easy to deploy and use without manual setup.
 
-Password Protection for Training:
+3.Password Protection for Training:
 
 Training the face recognizer is protected by a password, adding a layer of security to prevent unauthorized retraining.
 
-Real-Time Attendance Logging:
+4.Real-Time Attendance Logging:
 
 Attendance is marked in real-time using face recognition, and the latest records are displayed instantly in the UI.
 
-Easy Data Viewing:
+5.Easy Data Viewing:
 
 The attendance log is shown in a table with scroll support, making it easy to review recent records.
 
-Contact and Help Features:
+6.Contact and Help Features:
 
 Built-in options for password change and contacting support directly from the app.
 
-Extensible and Modern Tech Stack:
+7.Extensible and Modern Tech Stack:
 
 Uses modern libraries like HuggingFace for embeddings, FAISS for vector search, and OpenAI GPT for AI chat, making it future-proof and extensible.
 
