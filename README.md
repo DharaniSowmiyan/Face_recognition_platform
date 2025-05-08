@@ -93,12 +93,18 @@ Uses modern libraries like HuggingFace for embeddings, FAISS for vector search, 
 ![Screenshot 2025-05-08 091043](https://github.com/user-attachments/assets/0de39ed3-4991-426f-8784-3a3a531cfc4f)
 
 # Features
-Registration: Register new person with ID and name, and capture their face images.
+Registration: Register new person with ID and name, and capture their face images. 
+
 Face Training: Train a face recognizer model using the captured images.
+
 Attendance Marking: Mark attendance by scanning faces in real-time.
+
 Attendance Log: View recent attendance records in a table.
+
 Password Protection: Secure training with a password.
+
 Chatbot: Ask questions about registration and attendance using natural language.
+
 Contact & Help: Easy access to support and password change.
 
 # Tools and Technologies Used
@@ -135,5 +141,5 @@ Sentence-Transformers – Used in vector similarity search.
 
 (Frontend)
 React.js – Interactive user interface for registration, scanning, and chat.
-
+====================================================================================================================================================================================================================
 "This project is a part of a hackathon run by https://katomaran.com"
