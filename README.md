@@ -1,7 +1,8 @@
 ﻿# Face Recognition Platform with Real-Time AI Q&A using RAG
 Advanced facial recognition with real-time processing and AI-powered features
 
-# Main page![Screenshot 2025-05-08 084135](https://github.com/user-attachments/assets/2ab4477c-063b-48d5-b71d-69255c5a615f)
+# Main page
+![Screenshot 2025-05-08 084135](https://github.com/user-attachments/assets/2ab4477c-063b-48d5-b71d-69255c5a615f)
 
 # Register Faces![Screenshot 2025-05-08 084354](https://github.com/user-attachments/assets/721648a8-faff-4df7-a4e0-e22239412df3)
 
