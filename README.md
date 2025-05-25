@@ -2,7 +2,8 @@
 This project is a Face Recognition System with a modern React frontend and Python backend. It allows student registration, face capture, training a recognition model, and marking attendance using real-time webcam-based face recognition. A chatbot powered by openAI GPT and LangChain is integrated to answer queries about student registration and attendance.
 
 # Architecture diagram
-![2025-05-08 (3)](https://github.com/user-attachments/assets/d47a0428-2582-4706-929c-9e069285f75e)
+![image](https://github.com/user-attachments/assets/03b0737f-36d2-4e3c-8fa3-d3365f28c564)
+
 
 # What’s Special in my Face Recognition System?
 1.Integrated Chatbot with AI (OpenAI + LangChain):
