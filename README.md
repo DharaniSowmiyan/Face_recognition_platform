@@ -169,8 +169,13 @@ https://www.loom.com/share/ef2ca3a210884fc990e48fd1b8b1a92a?sid=746cef40-b19f-40
 
 # how to run
 cd front
+
 cd frontend
+
 npm dev run
+
 cd backend
+
 python facenet.py
+
 download yolov8m-face weights from https://github.com/akanametov/yolo-face
